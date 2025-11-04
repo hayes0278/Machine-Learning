@@ -23,7 +23,13 @@ After downloading the source code, then double click on the LinkChecker.ConsoleA
 View the project [Source Code]().
 
 ## How It Works
-- 
+- Established a machine learning pipeline.
+- Loads in custom provided training data.
+- Performs a predicition of the test scenarios based on the training data.
+- True means a positive sentiment, false means a negative one.
+- Returns the predicition along with the popability of it being correct.
 
 ## Limitations
-- 
+- Does not provide a GUI to work easier with the app.
+- Does not recieve input text from the user to test.
+- Does not recieve training data input from the user to learn.

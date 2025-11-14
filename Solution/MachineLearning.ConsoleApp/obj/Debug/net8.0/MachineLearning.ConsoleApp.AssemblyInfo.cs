@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MachineLearning.ConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01423829d7b94ed9a5edf4a14ee21d8a8f96c582")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9097131342b47cf6e2dcf358b382fdcaabc7d082")]
 [assembly: System.Reflection.AssemblyProductAttribute("MachineLearning.ConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MachineLearning.ConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

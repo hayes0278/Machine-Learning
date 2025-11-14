@@ -1,9 +1,11 @@
 ﻿using MachineLearning.ClassLibrary;
-using Microsoft.ML;
 
 string appName = "Machine Learning";
 
-Console.WriteLine($"=== Welcome to {appName} ===");
+Console.WriteLine($"==============================================");
+Console.WriteLine($"=== Welcome to the {appName} app! ===");
+Console.WriteLine($"==============================================");
+Console.WriteLine("");
 Console.WriteLine("I will now train with the provided data and then make some preditions.");
 Console.WriteLine("");
 

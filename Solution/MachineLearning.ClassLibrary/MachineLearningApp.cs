@@ -1,6 +1,5 @@
 ﻿using MachineLearning.Classlibrary;
 using Microsoft.ML;
-using System.Data;
 
 namespace MachineLearning.ClassLibrary
 {
@@ -42,11 +41,11 @@ namespace MachineLearning.ClassLibrary
 
             var sample2 = new SentimentData { SentimentText = "What a terrible movie." };
             var prediction2 = predictionEngine.Predict(sample2);
-            Console.WriteLine($"Text 2: '{sample2.SentimentText}' | Prediction: {prediction2.Prediction} | Probability: {prediction2.Probability}");
+            Console.WriteLine($"Test 2: '{sample2.SentimentText}' | Prediction: {prediction2.Prediction} | Probability: {prediction2.Probability}");
 
             var sample3 = new SentimentData { SentimentText = "Without a doubt, a great movie to see." };
             var prediction3 = predictionEngine.Predict(sample3);
-            Console.WriteLine($"Text 3: '{sample3.SentimentText}' | Prediction: {prediction3.Prediction} | Probability: {prediction3.Probability}");
+            Console.WriteLine($"Test 3: '{sample3.SentimentText}' | Prediction: {prediction3.Prediction} | Probability: {prediction3.Probability}");
 
             if (prediction1 != null && prediction2 != null && prediction3 != null) { return  true; } else { return false; }
         }

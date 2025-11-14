@@ -1,7 +1,4 @@
-using MachineLearning.Classlibrary;
 using MachineLearning.ClassLibrary;
-using Microsoft.ML;
-using System.Data;
 
 namespace MachineLearning.UnitTests
 {

@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Movie Sentiment";
+}
+
+<div class="text-center">
+    <h1 class="display-4">@ViewBag.Title</h1>
+    <p>@ViewBag.TagLine</p>
+</div>
+<div id="mobileShim" name="mobileShim"></div>
+<div class="text-left">
+    <p>
+        <form id="frmSpeechSynthesis" name="frmSpeechSynthesis" action="/" method="get">
+            <p>Sentiment: @ViewBag.Result</p>
+            <p>
+                Enter what you think about a movie you saw and I will determine the positive or negative sentiment for it.
+            </p>
+            <p>
+                <label for="txtInput">What did you think about the movie?</label><br />
+                <input type="text" size="75" id="txtInput" name="txtInput" onclick="javascript: this.value='';">@ViewBag.InputText</input>
+            </p>
+
+            <p>
+                <input type="submit" id="btnSubmit" name="btnSubmit" value="Review" />
+                <input type="reset" id="btnReset" name="btnReset" value="Start Again" onclick="replaceCurrentPage('/');" />
+            </p>
+        </form>
+    </p>
+
+</div>
+<script>
+    const textField = document.getElementById("txtInput"); textField.focus();
+</script>

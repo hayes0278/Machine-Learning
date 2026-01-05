@@ -1,0 +1,4 @@
+@SpeechSynthesis.WebAPI_HostAddress = https://localhost:7117
+
+POST {{SpeechSynthesis.WebAPI_HostAddress}}/machinelearning/
+Accept: application/json

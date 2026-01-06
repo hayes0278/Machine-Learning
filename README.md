@@ -4,7 +4,6 @@ A simple machine learning application written in C#.
 ## Features
 - Performs binary classification (positive or negative sentiment analysis).
 - Performs automatic data loading.
-- Defines a machine learning pipeline.
 - Trains the machine learning model with data.
 - Performs a prediction on the users thoughts on a movie.
 
@@ -22,5 +21,5 @@ View the project [Source Code](https://github.com/hayes0278/Machine-Learning).
 - Does not recieve training data input from the user to learn.
 
 ## Screenshots 
-![Web Screenshot](Media/Screenshots/WebApp.PNG)
+![Web Screenshot](Media/Screenshots/WebApp.png)
 ![Console Screenshot](Media/Screenshots/ConsoleApp.png)

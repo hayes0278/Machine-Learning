@@ -12,11 +12,11 @@
         <form id="frmSpeechSynthesis" name="frmSpeechSynthesis" action="/" method="get">
             <p>Sentiment: @ViewBag.Result</p>
             <p>
-                Enter what you think about a movie you saw and I will determine the positive or negative sentiment for it.
+                Enter what you think about a movie, and I will determine the positive or negative sentiment for it.
             </p>
             <p>
                 <label for="txtInput">What did you think about the movie?</label><br />
-                <input type="text" size="75" id="txtInput" name="txtInput" onclick="javascript: this.value='';">@ViewBag.InputText</input>
+                <input type="text" size="75" id="txtInput" name="txtInput" value="@ViewBag.InputText" onclick="javascript: this.value='';">
             </p>
 
             <p>

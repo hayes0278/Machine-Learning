@@ -1,7 +1,6 @@
 using MachineLearning.ClassLibrary;
 using MachineLearning.WebApplication.Models;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Localization;
 using System.Diagnostics;
 
 namespace MachineLearning.WebApplication.Controllers

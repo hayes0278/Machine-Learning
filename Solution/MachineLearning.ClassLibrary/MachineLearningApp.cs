@@ -83,7 +83,7 @@ namespace MachineLearning.ClassLibrary
             var sample = new SentimentData { SentimentText = inputText };
             var prediction = predictionEngine.Predict(sample);
 
-            if (prediction.Prediction == true) { return "Positive Sentiment"; } else { return "Negative Sentiment"; }
+            if (prediction.Prediction == true) { return "Positive"; } else { return "Negative"; }
         }
     }
 }

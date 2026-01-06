@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MachineLearning.WebApplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+290842490583e9e5d6b70575013354dd17d88f1d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba7dccbb609335d9ceabc0eca05da26668491e8a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MachineLearning.WebApplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MachineLearning.WebApplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

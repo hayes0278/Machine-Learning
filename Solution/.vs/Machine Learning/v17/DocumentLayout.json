@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Code\\GitHub\\Machine-Learning\\Solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FDA90750-AA8C-4E72-940F-A5DF94B3A4C0}|MachineLearning.WebApplication\\MachineLearning.WebApplication.csproj|c:\\code\\github\\machine-learning\\solution\\machinelearning.webapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FDA90750-AA8C-4E72-940F-A5DF94B3A4C0}|MachineLearning.WebApplication\\MachineLearning.WebApplication.csproj|solutionrelative:machinelearning.webapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code\\GitHub\\Machine-Learning\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code\\GitHub\\Machine-Learning\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{FDA90750-AA8C-4E72-940F-A5DF94B3A4C0}|MachineLearning.WebApplication\\MachineLearning.WebApplication.csproj|c:\\code\\github\\machine-learning\\solution\\machinelearning.webapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDA90750-AA8C-4E72-940F-A5DF94B3A4C0}|MachineLearning.WebApplication\\MachineLearning.WebApplication.csproj|solutionrelative:machinelearning.webapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6FC7C234-8B27-4835-A7D3-A2A30C169C7F}|MachineLearning.UnitTests\\MachineLearning.UnitTests.csproj|c:\\code\\github\\machine-learning\\solution\\machinelearning.unittests\\machinelearning_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -61,7 +61,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -116,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Code\\GitHub\\Machine-Learning\\Solution\\MachineLearning.WebApplication\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "MachineLearning.WebApplication\\Views\\Home\\Index.cshtml",
@@ -168,13 +168,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Code\\GitHub\\Machine-Learning\\README.md",
               "RelativeDocumentMoniker": "..\\README.md",
               "ToolTip": "C:\\Code\\GitHub\\Machine-Learning\\README.md",
               "RelativeToolTip": "..\\README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-11-14T01:44:18.831Z",
               "EditorCaption": ""
